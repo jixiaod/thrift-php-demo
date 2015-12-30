@@ -1,6 +1,10 @@
 ### Thrif Demo
 This is a demo code of thrift rpc that using php language.
 
+### Require
+
+[Thritf Install](http://thrift.apache.org/docs/install/os_x)
+
 ### Generate Code
 
 ```
